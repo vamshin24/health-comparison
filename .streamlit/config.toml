@@ -1,0 +1,8 @@
+[theme]
+# Pin one explicit theme so widget text and the custom CSS always agree,
+# regardless of the OS/browser light or dark setting.
+base = "dark"
+primaryColor = "#5cc8ff"
+backgroundColor = "#0f1419"
+secondaryBackgroundColor = "#161c24"
+textColor = "#e6edf3"
